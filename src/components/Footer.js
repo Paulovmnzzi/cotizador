@@ -12,7 +12,7 @@ const Footer = ({onSubmit}) => {
   )
 }
 
-export default Footer
+export default Footer;
 
 const styles = StyleSheet.create({
   viewFooter: {
